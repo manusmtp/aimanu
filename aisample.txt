@@ -1,0 +1,11 @@
+student_id,name,age,grade,subject,score,city,enrollment_date,status
+1,Alice Johnson,20,A,Mathematics,95,New York,2023-09-01,Active
+2,Bob Smith,19,B,Physics,87,Los Angeles,2023-09-01,Active
+3,Carol Davis,21,A,Chemistry,92,Chicago,2023-09-02,Active
+4,David Wilson,18,C,Biology,78,Houston,2023-09-03,Active
+5,Emma Brown,20,B,Mathematics,89,Phoenix,2023-09-01,Active
+6,Frank Miller,22,A,Physics,96,Philadelphia,2023-09-02,Graduated
+7,Grace Lee,19,B,Chemistry,84,San Antonio,2023-09-01,Active
+8,Henry Taylor,21,C,Biology,76,San Diego,2023-09-03,Active
+9,Ivy Chen,20,A,Mathematics,93,Dallas,2023-09-01,Active
+10,Jack Anderson,18,B,Physics,88,San Jose,2023-09-02,Active
